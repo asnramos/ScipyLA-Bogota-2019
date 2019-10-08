@@ -1,0 +1,81 @@
+Que tal, Confirmo mi participación en Scipy Latinoamerica Bogota 2019 con el:  Taller PANDAS MATPLOTLIB Jupyter. Analisis y grafica de grandes volumenes de informacion en el area de Ciencias de Datos para quienes inician.
+
+1.) Los temas a tratar son los siguientes: 
+
+Todo se realiza con Scripts Python y Archivos de Datos de Ejemplos.
+
+a) Conceptos de DataScience y Programación Orientado a Objetos para el adecuado uso de las Librerías o Módulos de Python en el Área Científico. Clases, Métodos, Funciones. Desde las practicas y casos que tuve a resolver.
+
+a.1) Ambiente de instalacion PIP y Repositorio WHLs del LFD a cargo de Dr. Christoph Golke.
+
+b) Concepto de DATASET, DATAFRAME y FORMATO de Archivos con Grandes Volúmenes de Información. CSV, TSV, TXT.
+
+c) Acceso a planillas Excel con gran cantidad de filas, para análisis y visualización de información.
+
+d) Indexacion del Archivo para búsqueda y exploración de información.
+
+e) Categorizar o contar información masiva en los archivos.
+
+f) Graficar información categorizada o los items contabilizados. (Barras y Torta con Etiquetas, Labels)
+
+g) Guardar resultados de análisis o busqueda de información archivos con formato TSV, CSV, TXT.
+
+h) Conjuntos de Datos. visualización de intersección de Conjuntos usando Diagramas de Venn, otra forma de analizar información y hacer gráficas.
+
+i)Ejemplo de conteo de información y visualización con un Gráfico de Dispersión o Scatter.
+
+k) Como nos ayudan los Jupyter de Notebook en los trabajos de Análisis de información. Nbviewer.
+
+l)Repositorios de DataSet y codigo de ejemplos: Kaggle, GitHub. Bibliografia recomendada (Online). Consejos.
+
+m) Preguntas.
+
+2.) El Repositorio, los Notebook de Jupyter y los archivos de información, subiré el fin de semana, ya que estoy con varias actividades de ritmo intenso en estos días de semana.
+
+3.) El horario de preferencia, seria en la mañana los días de los Talleres, en el 2do turno esta bien.
+
+4.) Necesito DataDisplay o Retroproyector, mi Notebook tiene salida VGA y HDMI.
+
+5.) Si tienen una Pizarra para escribir con Fibra, también por favor. Llevo las fibras y Borrador.
+
+6.) Conexión a Internet.
+
+Cualquier cuestión me avisan por favor.
+
+Gracias por la comunicación. Nos vemos alli en Bogota..!!!
+
+Atte.
+Ariel Silvio Norberto RAMOS.-
+
+Python principalmente se basa en Listas y Conjuntos de alli pasamos a los DataSet y a los DataFrame
+Script para sacar el promedio y luego redondear a 2 decimales, que tambien nos sirva para imprimir los valores de uno o varios  DataFrame
+Script para hacer consultas (ingresando el texto en el Script y por teclado)
+Script para Contar (Categorizar) todos los DataFrame que quiera
+Script para Imprimir los DataFrame
+Script para abrir todos los archivos XLSX, XLS, TXT, CSV, TSV, etc...
+Script para guardar los datos en TXT, TSV, CSV Indexados y No Indexados 
+Script para Graficar (Barras y Tortas)
+Script para contar Genes y colorear
+Script para Scatter
+Script para limpiar textos... ultimos ejemplos de Lorena y los apuntes de 10 de pandas
+
+Script para hacer un Merge o un Join, del libro online de JakeVanderplast
+
+SciPython pdf y scripts
+
+Jupyter Notebook de Ruben Lopez Briega
+https://github.com/relopezbriega/relopezbriega.github.io/blob/master/downloads/CategoricalPython.ipynb
+https://nbviewer.jupyter.org/
+https://nbviewer.jupyter.org/github/relopezbriega/relopezbriega.github.io/blob/master/downloads/CategoricalPython.ipynb
+
+Geeks4Geeks sitio web
+https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+http://www.datasciencemadesimple.com/mean-function-python-pandas-dataframe-row-column-wise-mean/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mean.html
+
+Informacion del mensaje de Bienvenida de Scipy Argentina
+Como Instalar Jupyter
+Hablar de Jupyter mostrando ejemplos de como hace todo solo y cuando copias el codigo sin usarlo existe una diferencia.
+Ejemplos en GitHub
+
+subir a GitHub
